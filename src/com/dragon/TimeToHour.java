@@ -1,11 +1,9 @@
-package src.com.fedasov.timeConvertor;
+package src.com.dragon;
 
 import java.util.Scanner;
 
 /*
- *
  * Программа для конвертирования секнд в часы!
- *
  */
 
 public class TimeToHour {
